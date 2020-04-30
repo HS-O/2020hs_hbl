@@ -1,0 +1,57 @@
+body{
+  background: #ffd9b3;
+}
+
+h1{
+  font-family: 'Anton', sans-serif;
+  font-size: 30px;
+  text-align: center; 
+}
+
+table,tr,th{
+  border: 2px solid #005c99;
+}
+
+table{
+  border-collapse: collapse;
+  border-spacing: 40px;
+}
+
+tb,th{
+  padding: 15px;
+  text-align: center; 
+}
+
+.heading{
+  font-family: 'Anton', sans-serif;
+  font-size: 23px;
+}
+
+.a{
+  font-family: 'Anton', sans-serif;
+  font-size: 15px;
+}
+
+.b{
+  font-family: 'Anton', sans-serif;
+  font-size: 20px;
+}
+
+input[type="submit"]{
+  background-color:  white;
+  color: #ffd9b3;
+  padding: 20px 30px;
+  font-family: 'Anton', sans-serif;
+  display: inline-block;
+  font-size: 13px;
+  text-align:center;
+  cursor: pointer;
+  border-radius: 10px;
+  border: #ffd9b3;
+}
+
+button:hover{
+  background-color: #ffd9b3;
+  color: white;
+}
+
